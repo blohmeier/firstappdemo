@@ -1,7 +1,8 @@
 package mainpackage;
 /* by Brett. 
  * To get user info from the console.
- */
+ * Without use of scanner.
+ */ 
 public class inputc {
 	public static void main(String[] args)
 	{
